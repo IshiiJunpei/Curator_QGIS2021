@@ -30,43 +30,43 @@ QGISで何ができるのか、その可能性を体験していただくと同�
 
 ### 書籍
 
-- 喜多耕一『業務で使うQGIS ver3.0』全国林業改良普及協会
+**喜多耕一『業務で使うQGIS ver3.0』全国林業改良普及協会**
 
 北海道庁喜多耕一さんが執筆した、QGISの機能を網羅的に解説した現時点で最も有用な書籍です。
 
-- 石井淳平[文化財業務で使うGIS－QGISを利用した実践的操作－](file:///tmp/mozilla_ishii0/BB27718418_2_138_194.pdf)
+**石井淳平[文化財業務で使うGIS－QGISを利用した実践的操作－](file:///tmp/mozilla_ishii0/BB27718418_2_138_194.pdf)**
 
 奈良文化財研究所の文化財研修講義資料です。本研修の内容をより詳しく学びたい方へ。
 
 ### データ一覧
 
-- ![基盤地図情報](https://fgd.gsi.go.jp/download/menu.php)
+**![基盤地図情報](https://fgd.gsi.go.jp/download/menu.php)**
 
 地理院の地図データのダウンロードサイトです。データは独自のxml形式となっているので変換が必要です。
 
-- ![国土数値情報](https://nlftp.mlit.go.jp/ksj/)
+**![国土数値情報](https://nlftp.mlit.go.jp/ksj/)**
 
 国土交通省が提供するGISデータです。基盤地図情報にはない国土の基本情報が網羅されています。河川データは地理院提供のものより詳しく、考古学用途に向いています。
 
-- ![環境省自然環境保全基礎調査](http://gis.biodic.go.jp/webgis/sc-023.html)
+**![環境省自然環境保全基礎調査](http://gis.biodic.go.jp/webgis/sc-023.html)**
 
 環境省の植生調査等の全国データです。
 
-- ![産総研地質調査総合センター地質図類データダウンロード](https://gbank.gsj.jp/datastore/)
+**![産総研地質調査総合センター地質図類データダウンロード](https://gbank.gsj.jp/datastore/)**
 
 地質図をGISデータとしてダウンロードできます。５万分１地形図単位で取得します。
 
-- ![BBBike.org](https://extract.bbbike.org/)
+**![BBBike.org](https://extract.bbbike.org/)**
 
 OpenStreetMapのデータを任意の領域に切り取ってエクスポートできます。本研修の道路データもここからダウンロードしたデータを使用しています。
 
 ### 便利なツール
 
-- ![基盤地図情報ビューア](https://fgd.gsi.go.jp/download/documents.html)
+**![基盤地図情報ビューア](https://fgd.gsi.go.jp/download/documents.html)**
 
 基盤地図情報（基本項目）をshp形式など一般的なGISデータに変換するツールです（Windows専用）。
 
-- ![基盤地図情報 標高DEMデータ変換ツール](https://www.ecoris.co.jp/contents/demtool.html)
+**![基盤地図情報 標高DEMデータ変換ツール](https://www.ecoris.co.jp/contents/demtool.html)**
 
 エコリスさんが提供する基盤地図情報（数値標高モデル）をDEMデータに変換するためのツールです（Windows専用）。
 
